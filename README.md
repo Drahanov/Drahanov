@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Drahanov
 - 👀 I’m interested in Android Development with Java and Kotlin
 - 🌱 I’m currently learning Kotlin, MVP Pattern, MySql Server, Android SDK
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 All my repo is private, so u can write me in case of something
 
 <!---
 Drahanov/Drahanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
